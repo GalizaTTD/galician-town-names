@@ -1,0 +1,10 @@
+##grflangid 0x04
+# This is the Spanish language file
+
+# GRF Metadata
+STR_GRF_NAME        :Nombres de pueblos gallegos
+STR_GRF_DESCRIPTION :Añade los nombres de todos los ayuntamientos gallegos, así como también forma parroquias aleatorias
+STR_GRF_URL         :https://github.com/pvillaverde/openttd-galician-town-names
+
+# GRF Data
+STR_MENU            :Gallegas

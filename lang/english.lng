@@ -1,0 +1,10 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF Metadata
+STR_GRF_NAME        :Galician Town Names
+STR_GRF_DESCRIPTION :Adds all town councils names from Galicia (Northwest Spain), as well as random district names
+STR_GRF_URL         :https://github.com/pvillaverde/openttd-galician-town-names
+
+# GRF Data
+STR_MENU            :Galician
