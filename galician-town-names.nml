@@ -21,7 +21,7 @@ grf {
    name:                   string(STR_GRF_NAME);
    desc:                   string(STR_GRF_DESCRIPTION);
    url:                    string(STR_GRF_URL);
-   version:                1;
+   version:                2;
    min_compatible_version: 1;
 }
 
@@ -373,9 +373,6 @@ town_names(prefixo) {
 		text("Santa Baia", 1),
 		text("Santo André", 1),
 		text("Santo Estevo", 1),
-		text("Santa Eulalia", 1),
-		text("Santa Eulalia", 1),
-		text("Santa Eulalia", 1),
 		text("Santa Eulalia", 1),
 	}
 }
